@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb",
+  "ignore": [
+    "public"
+  ],
+  "globals": {
+    "angular": true
+  }
+}
